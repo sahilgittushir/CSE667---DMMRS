@@ -126,7 +126,7 @@ This repository is curated for:
 
 Sincere thanks to **Prof. Dr. Tanmoy Kundu** for designing and delivering this intellectually enriching course at **IIIT-Delhi**. The assignments and assessments reflect his deep academic clarity and focus on research-oriented learning.
 
-All content, code, and write-ups are maintained by **[Your Full Name]** and shared for the benefit of future learners, educators, and researchers.
+All content, code, and write-ups are maintained by **Sahil Tushir** and shared for the benefit of future learners, educators, and researchers.
 
 ---
 
