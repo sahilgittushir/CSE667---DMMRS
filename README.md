@@ -10,7 +10,7 @@ Welcome to the official course repository for **CSE667: Decision Making Models i
 > **Institution:** IIIT-Delhi  
 > **Term:** Spring 2025  
 > **Credits:** 4  
-> **Evaluation Components:** Assignments (60), Midsem (30), Endsem (40), Project (20)
+> **Evaluation Components:** Assignments (15), Midsem (30), Quizzes (30), Project (15)
 
 This course introduces **strategic decision making**, **game theory**, **planning under uncertainty**, and **belief modeling** within the context of autonomous robotic systems and multi-agent coordination.
 
@@ -95,13 +95,9 @@ This section summarizes the core modules, assignments, and evaluations conducted
 
 ## 📌 Final Project *(Coming Soon)*
 
-**Theme:** Autonomous Systems with Planning Constraints  
+**Theme:** Multirobot Coordination in Uncertain environment
 **Topics:**
-- Energy-Aware Multi-Agent Planning  
-- Belief Fusion or Auction-Based Task Allocation  
-- Simulation and Evaluation Frameworks  
-📁 *To Be Uploaded After Submission*
-
+Multiple research Papers
 ---
 
 ## 🧠 Target Audience
@@ -136,9 +132,9 @@ All content, code, and write-ups are maintained by **[Your Full Name]** and shar
 
 ## 👤 Maintainer
 
-**Name:** [Your Full Name]  
-**Email:** [your.email@example.com] *(optional)*  
-**GitHub:** [https://github.com/yourusername](https://github.com/yourusername)  
+**Name:** Sahil Tushir
+**Email:** sahil22427@iiitd.ac.in  
+**GitHub:** [sahilgittushir](https://github.com/sahilgittushir)  
 **Affiliation:** IIIT-Delhi
 
 ---
