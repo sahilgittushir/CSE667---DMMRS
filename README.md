@@ -63,7 +63,7 @@ This section summarizes the core modules, assignments, and evaluations conducted
 - Best Response Correspondence  
 - Linear Programming & SMT Solving using Z3  
 **Language:** Python + Z3 Solver  
-🔗 [Go to Assignment-2](https/github.com/sahilgittushir/CSE667---DMMRS/Assignment)
+🔗 [Go to Assignment-2](https://github.com/sahilgittushir/CSE667---DMMRS/tree/main/Assignments/Assignment-2)
 
 ---
 
@@ -76,7 +76,7 @@ This section summarizes the core modules, assignments, and evaluations conducted
 - Mutual Information, KL-Divergence  
 - Informative Path Planning & Uncertainty Reduction  
 **Language:** Jupyter Notebook (Math-heavy)  
-🔗 [Go to Assignment-3](https/github.com/sahilgittushir/CSE667---DMMRS/Assignment)
+🔗 [Go to Assignment-3](https://github.com/sahilgittushir/CSE667---DMMRS/tree/main/Assignments/Assignment-3)
 
 ---
 
@@ -89,7 +89,7 @@ This section summarizes the core modules, assignments, and evaluations conducted
 - Bidding Game with Tie-Break Rules  
 - Iterative Elimination of Dominated Strategies  
 - Scheduling & Energy Models in Multi-Agent Settings  
-🔗 [Go to Midsem Set-1](https/github.com/sahilgittushir/CSE667---DMMRS/Midsem)
+🔗 [Go to Midsem Set-1](https://github.com/sahilgittushir/CSE667---DMMRS/tree/main/Midsem)
 
 ---
 
