@@ -10,7 +10,7 @@ Welcome to the official course repository for **CSE667: Decision Making Models i
 > **Institution:** IIIT-Delhi  
 > **Term:** Spring 2025  
 > **Credits:** 4  
-> **Evaluation Components:** Assignments (15), Midsem (30), Quizzes (30), Project (15)
+> **Evaluation Components:** Assignments (15), Midsem (30), Quizzes (30), Project (25)
 
 This course introduces **strategic decision making**, **game theory**, **planning under uncertainty**, and **belief modeling** within the context of autonomous robotic systems and multi-agent coordination.
 
