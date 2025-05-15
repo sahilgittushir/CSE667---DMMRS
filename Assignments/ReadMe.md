@@ -13,7 +13,7 @@ Whether you're a student, researcher, or robotics enthusiast, this resource is d
 - **Semester:** Spring 2025  
 - **Institution:** Indraprastha Institute of Information Technology, Delhi (IIIT-Delhi)  
 - **Instructor:** Prof. Dr. **Tanmoy Kundu**  
-- **Repository Maintainer:** [Your Full Name]  
+- **Repository Maintainer:** Sahil Tushir 
 
 ---
 
@@ -66,8 +66,10 @@ Whether you're a student, researcher, or robotics enthusiast, this resource is d
 
 ---
 
-📂 Folder Structure
-bash├── Assignment-1/
+## 📂 Folder Structure
+
+```bash
+├── Assignment-1/
 │   └── DominantStrategies_MaxminEquilibria.py
 ├── Assignment-2/
 │   └── NashEquilibriumSolver.py
@@ -75,46 +77,38 @@ bash├── Assignment-1/
 │   ├── Entropy_MutualInformation_Proofs.md
 │   └── BeliefExploration_Strategy.md
 └── README.md
-
-
-🧠 Target Audience
+```
+## 🧠 Target Audience
 This repository is intended for:
+* 🎓 **Graduate students** enrolled in CSE667 (DMMRS) at IIIT-Delhi
+* 🤖 **Robotics researchers** exploring decision-making models
+* 🧪 **Theorists & Mathematicians** interested in game theory and belief modeling
+* 👨‍🏫 **Instructors** looking for sample problem sets and solved assignments
+* 👩‍💻 **Developers & Learners** working in autonomous systems, planning, and AI
 
-🎓 Graduate students enrolled in CSE667 (DMMRS) at IIIT-Delhi
-🤖 Robotics researchers exploring decision-making models
-🧪 Theorists & Mathematicians interested in game theory and belief modeling
-👨‍🏫 Instructors looking for sample problem sets and solved assignments
-👩‍💻 Developers & Learners working in autonomous systems, planning, and AI
+## 🙏 Acknowledgements
+A sincere thanks to **Prof. Dr. Tanmoy Kundu** for delivering this intellectually challenging and insightful course at **IIIT-Delhi**. The structure of the assignments, algorithms, and theoretical problems reflect his exceptional academic rigor and clarity.
 
-🙏 Acknowledgements
-A sincere thanks to Prof. Dr. Tanmoy Kundu for delivering this intellectually challenging and insightful course at IIIT-Delhi. The structure of the assignments, algorithms, and theoretical problems reflect his exceptional academic rigor and clarity.
-All solutions, implementations, and writeups have been curated and maintained by [Your Full Name] to support current and future students of this course.
-👤 Maintainer
-Name: [Your Full Name]
-Email: [your.email@example.com] (optional)
-GitHub: https://github.com/yourusername
-Affiliation: IIIT-Delhi
-📜 License
-This repository is made available for educational and academic use only. All code and content are original contributions unless otherwise credited.
+All solutions, implementations, and writeups have been curated and maintained by **[Your Full Name]** to support current and future students of this course.
+
+## 👤 Maintainer
+**Name:** Sahil Tushir  
+**Email:** [sahil_iiitd] (sahil22427@iiitd.ac.in)  
+**GitHub:** https://github.com/sahilgittushir  
+**Affiliation:** IIIT-Delhi
+
+## 📜 License
+This repository is made available for **educational and academic use only**. All code and content are original contributions unless otherwise credited.
+
 📌 If you use any portion of this repository in your work or projects, please cite the author and acknowledge the course appropriately.
-🌟 Contribute / Star / Fork
-If you find this repository helpful, you're encouraged to:
 
-⭐ Star to support the work
-🍴 Fork to adapt and extend it
-🛠️ Open issues or PRs for improvements or suggestions
+## 🌟 Contribute / Star / Fork
+If you find this repository helpful, you're encouraged to:
+* ⭐ **Star** to support the work
+* 🍴 **Fork** to adapt and extend it
+* 🛠️ **Open issues or PRs** for improvements or suggestions
 
 🚀 Wishing you success in your multi-robot systems journey. Keep exploring and learning!
-
-
-
-
-
-
-
-
-
-
 
 
 
