@@ -50,7 +50,7 @@ This section summarizes the core modules, assignments, and evaluations conducted
 - Maxmin Strategies and Equilibria  
 - Equilibrium Refinements and Solution Elimination  
 **Language:** Python  
-🔗 [Go to Assignment-1]((https://github.com/sahilgittushir/CSE667---DMMRS/tree/main/Assignments/Assignment-1))
+🔗 [Go to Assignment-1](https://github.com/sahilgittushir/CSE667---DMMRS/tree/main/Assignments/Assignment-1)
 
 ---
 
